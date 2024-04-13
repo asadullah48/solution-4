@@ -9,3 +9,9 @@ console.log(text);
 // Shows the name with whitespace
 console.log(text.trim()); 
 // Shows the name without whitespace.
+let sentence: string = "\t\n Asadullah Shafique is onsite student @ governer house,learning coding these days  \t\n"; 
+console.log(sentence);
+console.log(sentence.trim());
+
+
+
